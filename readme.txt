@@ -6,3 +6,5 @@ I have used :
 - Bootstrap
 - Jquery
 - Javascript
+
+You can see it live here : http://alexandrerobin.fr/apps/calculator
